@@ -7,6 +7,7 @@
 
 // export {};
 
-// const myGender;
+type Gender = 'male' | 'female';
+const myGender:Gender = 'male';
 
-// export {};
+export {};
